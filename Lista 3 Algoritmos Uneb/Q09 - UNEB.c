@@ -1,3 +1,7 @@
+/*Faça um algoritmo que leia um vetor de 10 elementos. Leia, a seguir, um valor 
+N e verifique se o valor aparece no vetor escrevendo: 0 - se o valor N não 
+aparece no vetor; 1 - se o valor N aparece no vetor.*/
+
 #include <stdio.h>
 #include <math.h>           // Bibliotecas utilizadas
 #include <locale.h>
